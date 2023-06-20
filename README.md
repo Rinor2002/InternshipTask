@@ -3,7 +3,9 @@ Intership task for Pabau Kosovo L.L.C
 
 # Info
 ## Javascript
-For the javascript part just open the .html file
+For the javascript part just open the .html file. <br />
+#### !IMPORTANT
+Values are displayed in console!
 
 ## React
 For the react part, open the "pabau" folder in order to run the app.<br />
